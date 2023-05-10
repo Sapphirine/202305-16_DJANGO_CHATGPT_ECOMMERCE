@@ -12,7 +12,7 @@
 Clone or pull from the dev branch before you begin coding.
 ```
 #cloning
-git clone git@github.com:Sapphirine/202305-16_DJANGO_CHATGPT_ECOMMERCE.git .
+git clone git@github.com:Sapphirine/202305-16_Django_Chatgpt_Ecommerce.git .
 
 ```
 
